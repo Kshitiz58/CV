@@ -197,7 +197,7 @@
 	margin-top: 20px;
 	color: #000;
 }
-.services-box a:hover{
+.services-box:hover{
 	background: #000;
 	color: #fff;
 }
