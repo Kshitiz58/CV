@@ -237,6 +237,9 @@
 	padding: 5px;
 	font-weight: 100px;
 }
+.contact i p{
+	margin: 5px;
+}
 .contact .col-md-4 .fa{
 	padding: 10px;
 	font-size: 40px;
