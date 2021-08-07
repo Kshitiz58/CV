@@ -85,9 +85,9 @@
 	text-align: justify;
 }
 .profile{
-	height: 500px;
+	height: 100%;
 	border-radius: 5px;
-	display: 60%;
+	width: 90%;
 }
 .skills-bar p{
 	margin-bottom: 6px;
