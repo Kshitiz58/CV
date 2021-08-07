@@ -62,20 +62,6 @@
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
-@media(max-width: 700px){
-	.navbar{
-		font-size: 50px;
-		width: 0px;
-		height: 0px;
-	}
-}
-@media(max-width: 700px){
-	.col-md-6{
-		font-size: 50px;
-		width: 0px;
-		height: 0px;
-	}
-}
 .about p{
 	font-size: 17px;
 	text-align: justify;
@@ -287,7 +273,7 @@
 	background: #000;
 	height: 50px;
 	margin-top: 0px;
-	color: #87ceeb;
+	color: #fff;
 	padding-top: 10px;
 }
 /*---------------Social Icons---------------*/
