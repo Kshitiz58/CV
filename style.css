@@ -73,6 +73,9 @@ html{
 	font-size: 25px;
 	text-align: justify;
 }
+#about a{
+	text-decoration: none;
+}
 .profile{
 	height: 100%;
 	width: 90%;
