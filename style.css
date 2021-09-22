@@ -79,7 +79,8 @@ html{
 #about a:hover{
 	background-color: #87ceeb;
 	color: black;
-	border-radius: 5px
+	border-radius: 5px;
+}
 .profile{
 	height: 100%;
 	width: 90%;
