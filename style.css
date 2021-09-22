@@ -89,7 +89,7 @@ html{
 }
 .progress-bar{
 	border-radius: 16px;
-	background: #87ceeb !important;
+	background: #000 !important;
 }
 .nav-bar{
 	z-index: 2;
