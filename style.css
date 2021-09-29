@@ -9,7 +9,7 @@ html{
 /*------------Header CSS--------*/
 #header{
 	height: 100vh;
-	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/wallpaper2.jpg);
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(image/b.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -137,7 +137,8 @@ html{
 .resume{
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background: #000;
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image/c.jpg);
+	background-size: cover;
 }
 .pass{
 	color: #fff;
@@ -234,7 +235,7 @@ html{
 .contact{
 	padding-top: 100px;
 	padding-bottom: 80px;
-	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image/banner.png);
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(image/d.png);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
